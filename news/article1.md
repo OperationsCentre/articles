@@ -182,81 +182,6 @@ Ensure that the employees are trained in using the system, so that they know how
 
 ## Risks and risk management
 
-<table>
-  <tr>
-    <th style="width: 35%%">Risk</th>
-    <th style="width: 15%">Probability</th>
-    <th style="width: 15%">Impact</th>
-    <th style="width: 35%">Mitigation Plan</th>
-  </tr>
-  <tr>
-    <td>Lots of different businesses have different business models and structures, so it is likely that our system may not be adequate for all use cases. </td>
-    <td>Medium</td>
-    <td>High</td>
-    <td> To mitigate this, we will keep the design of groups as open as possible so that they can be used in a wide range of situations. </td>
-  </tr>
-  <tr>
-    <td>The stakeholders could change their mind on some elements of the system and how they want it to work. </td>
-    <td>High</td>
-    <td>High</td>
-    <td>We will complete the project using the V-model agile approach. This is so that if the stakeholders change their mind about a certain process, we can make those changes easily. </td>
-  </tr>
-  <tr>
-    <td>Some parts of the product may take longer to produce compared to others.</td>
-    <td>High</td>
-    <td>High</td>
-    <td>We will work on various parts at separate times. The details of which can be seen in the Project Plan section. This will minimise the risk of sections being incomplete before testing and all resources can be put into each section to complete each one as quickly as possible. </td>
-  </tr>
-  <tr>
-    <td>Not enough resources.</td>
-    <td>Medium</td>
-    <td>High</td>
-    <td>Holiday/Sick days have been accounted for in the plan to allow for staff to be absent and allow the product to be completed on time.</td>
-  </tr>
-  <tr>
-    <td>Unexpected errors may show during late testing.</td>
-    <td>High</td>
-    <td>High</td>
-    <td>A plan is in place to ensure that the product is completed on time and is as bug-free as possible. The use of an agile approach allows us to fix errors as they are found and test accordingly.</td>
-  </tr>
-  <tr>
-    <td>Potential loss of data when transferring between client and server.</td>
-    <td>Low</td>
-    <td>High</td>
-    <td>We can employ a TCP text transfer protocol to ensure that the data is checked when being transferred to the database</td>
-  </tr>
-  <tr>
-    <td>Potential rubbish data.</td>
-    <td>Low</td>
-    <td>High</td>
-    <td>We will make copies of the database to ensure that if a mistake happens, it can be rolled back to a pervious state. Also, if two people are making changes to the same listing at the same time, it could cause corruption or data being overwritten. In which case, the user that logged on last will be told that someone is already editing that document and will have to wait until the other user logs off before continuing.</td>
-  </tr>
-  <tr>
-    <td>Mailing Lists being sent to the wrong people</td>
-    <td>Low</td>
-    <td>High</td>
-    <td>This would happen if a user’s email address is input incorrectly. This could be because someone entered the wrong employees email address because they have similar names. To mitigate this, the employee's email address will be collected from the employee database to minimise the risk of human error. </td>
-  </tr>
-  <tr>
-    <td>Version Control errors when committing</td>
-    <td>Medium</td>
-    <td>High</td>
-    <td>We will be using a Git system to help with version control. This will allow us to keep track of users work and monitor progress of employees. If errors are made, we can use the Git system to recover the lost work. The Git system will also be backed up daily in case someone overrides another's work, and it is unable to be retrieved through Git. </td>
-  </tr>
-  <tr>
-    <td>Breakdown in communication as employees can’t keep track of who has done what.</td>
-    <td>Low</td>
-    <td>Medium</td>
-    <td>Have scrum meetings for review of performance. </td>
-  </tr>
-  <tr>
-    <td>Staffing issues & Lack of motivation as staff can’t do work properly because of being unmotivated or tired.</td>
-    <td>Low</td>
-    <td>Low</td>
-    <td>Improvements in skill set and projects in a portfolio. Review of performance and improvements. </td>
-  </tr>
-</table>
-
 ## References
 
 Zoho. (2019). Online Event Management Software | Zoho Backstage. [online]
@@ -270,5 +195,3 @@ CQI | IRCA. (2020). Setting and applying SMART objectives. [online] Available at
 
 Simplicable. (2018). 26 Examples of Quality Goals Simplicable [online]
 Available at: https://simplicable.com/new/quality-goals [Accessed 18th Feb. 2022].
-
-Hello!
