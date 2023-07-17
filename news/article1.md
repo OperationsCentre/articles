@@ -270,3 +270,5 @@ CQI | IRCA. (2020). Setting and applying SMART objectives. [online] Available at
 
 Simplicable. (2018). 26 Examples of Quality Goals Simplicable [online]
 Available at: https://simplicable.com/new/quality-goals [Accessed 18th Feb. 2022].
+
+Hello!
