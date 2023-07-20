@@ -89,12 +89,12 @@ console.log(foo(5));
 
 [Regular Link](https://www.rustyoperations.net/img/rust-logo.jpg)
 
-[Titled Link](tp://www.rustyoperations.net "Rusty Operations Community Website")
+[Titled Link](http://www.rustyoperations.net "Rusty Operations Community Website")
 
 
 ## Images
 
-![Image](http://localhost:3000/img/rust-logo.jpg)
+![Image](https://www.rustyoperations.net/img/rust-logo.jpg)
 ![Image With Title](https://www.rustyoperations.net/img/rust-banner.jpg "Banner")
 
 ![Alt text][id]
