@@ -65,7 +65,8 @@ console.log(foo(5));
 
 ## Tables
 
-<table>
+<div>
+  <table>
   <tr>
     <th>Name</th>
     <th>IP</th>
@@ -81,8 +82,8 @@ console.log(foo(5));
     <td>0.0.0.0</td>
     <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sodales quam non tristique sollicitudin. Integer id est vulputate, pretium erat non, pellentesque enim. Quisque scelerisque vel sapien vitae bibendum. Sed rutrum molestie nunc, nec viverra mi pretium in. Aenean quis mi finibus, fringilla lacus in, feugiat lorem. Duis porta tellus quis turpis sollicitudin, et ultricies dui volutpat. Ut quis ante lacus. Praesent pellentesque mauris in justo dignissim efficitur. Morbi faucibus laoreet urna, et aliquam purus accumsan non. Morbi pellentesque placerat urna eu pretium. Sed eu aliquet lacus, ac aliquet est. Pellentesque vestibulum dolor et nunc fringilla, at cursus nunc convallis. Suspendisse sed risus ut dolor vulputate posuere non sed dui. Aenean fermentum gravida orci at vulputate.</td>
   </tr>
-</table>
-
+  </table>
+</div>
 
 ## Links
 
