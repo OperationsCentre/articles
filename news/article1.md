@@ -1,43 +1,11 @@
----
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
----
-
-# h1 Heading 8-)
+# h1 Heading
 ## h2 Heading
 ### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
 
 
 ## Horizontal Rules
 
 ___
-
----
-
-***
-
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
 
 
 ## Emphasis
@@ -49,9 +17,6 @@ __This is bold text__
 *This is italic text*
 
 _This is italic text_
-
-~~Strikethrough~~
-
 
 ## Blockquotes
 
@@ -79,10 +44,6 @@ Ordered
 2. Consectetur adipiscing elit
 3. Integer molestie lorem at massa
 
-
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-
 Start numbering with offset:
 
 57. foo
@@ -93,23 +54,8 @@ Start numbering with offset:
 
 Inline `code`
 
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
+Code Blocks
 ```
-Sample text here...
-```
-
-Syntax highlighting
-
-``` js
 var foo = function (bar) {
   return bar++;
 };
@@ -119,34 +65,36 @@ console.log(foo(5));
 
 ## Tables
 
-| Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default.    |
-| ext    | extension to be used for dest files.                                      |
-
-Right aligned columns
-
-| Option |                                                               Description |
-| -----: | ------------------------------------------------------------------------: |
-|   data | path to data files to supply the data that will be passed into templates. |
-| engine |    engine to be used for processing templates. Handlebars is the default. |
-|    ext |                                      extension to be used for dest files. |
+<table>
+  <tr>
+    <th>Name</th>
+    <th>IP</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>3x</td>
+    <td>64.40.9.19:28024</td>
+    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi imperdiet placerat quam in pulvinar. Morbi elementum molestie nisl a eleifend. Vestibulum auctor turpis non facilisis interdum. Maecenas facilisis mattis nulla, eu porttitor dolor accumsan et. Donec sed consequat quam. Quisque lectus velit, tempor non erat ut, tincidunt vehicula quam. Quisque volutpat eget odio quis volutpat. Ut placerat, erat ut viverra varius, leo justo suscipit elit, ut pulvinar mi diam id ipsum. Nunc vehicula mattis eleifend. Vivamus a gravida dui. Vivamus malesuada libero a finibus gravida.</td>
+  </tr>
+  <tr>
+    <td>2x</td>
+    <td>0.0.0.0</td>
+    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sodales quam non tristique sollicitudin. Integer id est vulputate, pretium erat non, pellentesque enim. Quisque scelerisque vel sapien vitae bibendum. Sed rutrum molestie nunc, nec viverra mi pretium in. Aenean quis mi finibus, fringilla lacus in, feugiat lorem. Duis porta tellus quis turpis sollicitudin, et ultricies dui volutpat. Ut quis ante lacus. Praesent pellentesque mauris in justo dignissim efficitur. Morbi faucibus laoreet urna, et aliquam purus accumsan non. Morbi pellentesque placerat urna eu pretium. Sed eu aliquet lacus, ac aliquet est. Pellentesque vestibulum dolor et nunc fringilla, at cursus nunc convallis. Suspendisse sed risus ut dolor vulputate posuere non sed dui. Aenean fermentum gravida orci at vulputate.</td>
+  </tr>
+</table>
 
 
 ## Links
 
-[link text](http://dev.nodeca.com)
+[Regular Link](https://www.rustyoperations.net/img/rust-logo.jpg)
 
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+[Titled Link](tp://www.rustyoperations.net "Rusty Operations Community Website")
 
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![Image](http://localhost:3000/img/rust-logo.jpg)
+![Image With Title](https://www.rustyoperations.net/img/rust-banner.jpg "Banner")
 
 Like links, Images also have a footnote style syntax
 
@@ -157,89 +105,6 @@ With a reference later in the document defining the URL location:
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 
-## Plugins
+### Abbreviations
 
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::
+This is <abbr title="Hyper Text Markup Language">HTML</abbr> abbreviation example.
