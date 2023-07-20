@@ -1,197 +1,245 @@
-# Software Quality and Testing - Quality Plan
+---
+__Advertisement :)__
 
-Module Code: CS2QT19
+- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
+  resize in browser.
+- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
+  i18n with plurals support and easy syntax.
 
-Assignment report Title: Quality Plan
+You will like those projects!
 
-Student Numbers: 29012845, 29011382, 29020320
+---
 
-Date: 18/2/22
+# h1 Heading 8-)
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
 
-Actual hrs spent for the assignment: 14
 
-Assignment evaluation (3 key points):
-1. We got to explore a quality plan on our own
-2. We enjoyed working together to come up with other ideas
-3. We found researching interesting
+## Horizontal Rules
 
-## Contents
+___
 
-- [Software Quality and Testing - Quality Plan](#software-quality-and-testing---quality-plan)
-  - [Contents](#contents)
-  - [Product introduction](#product-introduction)
-    - [Product Overview](#product-overview)
-    - [Product Audience](#product-audience)
-  - [Product plans](#product-plans)
-  - [Process descriptions](#process-descriptions)
-    - [Event Scheduling](#event-scheduling)
-    - [Creating Groups](#creating-groups)
-    - [Accessing users’ data](#accessing-users-data)
-    - [Notifications/Mailing List](#notificationsmailing-list)
-    - [Budget tools](#budget-tools)
-    - [Checklists](#checklists)
-  - [Quality goals](#quality-goals)
-    - [Client-Server Response Time](#client-server-response-time)
-    - [Intuitive Design](#intuitive-design)
-    - [Database Quality](#database-quality)
-    - [Encryption](#encryption)
-    - [Defects](#defects)
-    - [Training](#training)
-  - [Risks and risk management](#risks-and-risk-management)
-  - [References](#references)
+---
 
-## Product introduction
+***
 
-This Software Quality Assurance Plan will outline the details of how the project should be completed to ensure high-quality software is produced.
 
-### Product Overview
+## Typographic replacements
 
-The product is an Event Management Assistant. It will be capable of assisting event managers in the planning phase of events, such as concerts, business meetings and more.
+Enable typographer option to see result.
 
-- Checklists to ensure that important things are noted down, so that they can be done on time or when needed.
-- Scheduling assistant to ensure that meetings and events are planned accordingly when people are free.
-- Budget tools allow users to plan and manage spending.
-- Mailing lists allow users to send emails to multiple other users.
-- Planners can also amend the event after being set up to account for changes in venue and staff.
-- Each user should be able to see where they are assigned and at what times.
-- Create new roles and teams when needed to allow for versatility in the user’s business strategies and models and allow them to encompass all the teams needed for the events they may plan. Templates will be provided for standard use cases.
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
-The product will be a web-app, that users can log onto to see their scheduled events and information about that event to help it run as smoothly as possible.
+test.. test... test..... test?..... test!....
 
-Event managers/coordinators will be able to input details of an event and assign workers to each part of the event so that everyone involved knows what they are doing and where they will be.
+!!!!!! ???? ,,  -- ---
 
-Workers will be able to log onto the system to see their assigned team, posts, and what they will be doing. For example, a security guard can be assigned to a "Security" group. They can log onto the service via a desktop or mobile browser. They will be presented with information on where they will be stationed, how long for, and any other information a security guard can do.
+"Smartypants, double quotes" and 'single quotes'
 
-### Product Audience
 
-This product is aimed towards small and large-scale businesses alike, to help event managers coordinate events with ease and security.
+## Emphasis
 
-- Project managers will be able to perform the tasks specified in this document.
-- Workers will be able to see their schedule for the events.
-- Stakeholders will be able to collaborate with us in testing to ensure that the product’s aligned with their needs and allow for criticism with real-world users.
+**This is bold text**
 
-## Product plans
+__This is bold text__
 
-To ensure quality, we will adopt an agile approach, using the V-Model, to complete the product. This will allow room for testing during development to reduce the impact of bugs that may be hidden until late testing.
+*This is italic text*
 
-The order in which the project will be completed is as follows:
+_This is italic text_
 
-1. The back end, to ensure that all required functionality is encompassed in the database and server side. Development of the mass email-systems will occur here.
-2. The front-end. Once all functionality is implemented into the database, the front-end developers will be able to generate a user-interface which will allow the users to see all the information they need when using the service.
-   - This includes UI for the Scheduling Assistant, Mailing List, Budgeting Tools, Groups and Checklist.
-3. Logic for all systems that can be processed on the front end.
-4. The interface between the front-end and the database, connecting the two together. This is to ensure that the front-end and the database can remain separate from each other so that testing can be done on both the front-end and database without interference from the other, ensuring that each works correctly on their own.
-   - Making sure that the scheduling aligns with all parties involved and provides warnings if not.
-   - Converting checklists into data that can be stored on a database.
-   - Processing requests to send to the server for mailing.
-   - Processing budget used.
-   - Processing new groups into a format that can be stored in the database.
+~~Strikethrough~~
 
-Testing will be completed in-between each step to ensure that each part functions as intended before linking them together with the interface layer. If bugs are found, they can be fixed at each step. This will reduce the risk of there being system-breaking bugs in each section which will increase the overall quality of the product.
 
-We have chosen to complete the product this way so that each system can remain independent from the others, allowing for easy adaptation of each underlying system and process with minimal change of it affecting the other. The interface to link the front- and back-end systems, where any needed conversion between data can take place, for example, date-time formatting, converting SQL returns to readable text, and validating user inputs. It will also allow for different front ends can be created in the future if demand for desktop/mobile versions of the product are requested.
+## Blockquotes
 
-## Process descriptions
 
-In this project, there many different processes which must occur. These are the following:
+> Blockquotes can also be nested...
+>> ...by using additional greater-than signs right next to each other...
+> > > ...or with spaces between arrows.
 
-### Event Scheduling
 
-Event scheduling is the process by which an event manager will pick a date and time for the event. The name for the event will also be entered, along with the location it is taking place in, much like a regular online calendar. Events can overlap to account for the company having multiple events in one day, however, the planner should receive a warning if the date and time overlap with an event already on the schedule.
+## Lists
 
-When a date and time is input into the software, a new record should be entered into the database with its own unique ID which can be generated when a new record is entered.
+Unordered
 
-### Creating Groups
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy!
 
-A group is a collection of employees/members that are will be assigned to the same team, like security, or sound. The groups will be stored in a new table that will link the two created event using a linking table. Each group can have its own ID.
+Ordered
 
-Groups may also be templated and linked to the event via a foreign key, as it is likely a company's security team will change from event-to-event.
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
 
-Groups must have at least one person in them. Members can be assigned to a group from the group menu. The data stored about that member will be their ID, name, location they will be working at the event, their working times, and an additional section for notes. This notes section can be used to provide additional information about the job. All fields will be required, except the notes section.
 
-### Accessing users’ data
+1. You can use sequential numbers...
+1. ...or keep all the numbers as `1.`
 
-As the nature of the project is to plan events, it would make sense for the people involved to be able to see their role within the event.
+Start numbering with offset:
 
-Users should be able to log into the webapp using a username and password. As they are employees, they should have limited access to event details and should only be able to see the information the event planner has put next to their name. This includes:
+57. foo
+1. bar
 
-- Event date, time, and location.
-- Employees scheduled shift and timings.
-- Additional notes left by the event planner.
 
-If there are any changes that need to be made to the event, then the event planner can login at any time and adjust the plan. Each field (location, date, time, group information, etc.) can be edited by the event planner and saved at any time.
+## Code
 
-### Notifications/Mailing List
+Inline `code`
 
-Following along from the last process, everyone who is affected by a change that was made to the event should be notified via email about the changes that have been made.
+Indented code
 
-Planners can also send emails to everyone involved in the event using a mailing list to notify users of additional changes, not covered by the automated system.
+    // Some comments
+    line 1 of code
+    line 2 of code
+    line 3 of code
 
-For example, if an event venue was changed, all employees should be notified of this so that there is no confusion. Similarly, if the location of security guard was changed, the guard and their superior should be notified of this change.
 
-To decrease the number of emails sent out, they should be combined into one email which is sent out at the end of the working day. This preference can be toggled off and notifications can be sent as soon as one is made.
+Block code "fences"
 
-### Budget tools
+```
+Sample text here...
+```
 
-Budget tools can be used in the planning of events to manage and allocate their finances to different events, whether they are external events and must be paid for in advance or whether they are internal events that need equipment to be bought.
+Syntax highlighting
 
-Planners can view their budget and see what they have already spent and on what so they can find out how much money they have for other things. This can all be displayed in a spreadsheet-like table. The planner can also filter this table and order it so they can view the information they would find most helpful.
-* Order from most expensive to least expensive.
-* Only show costs of over a certain amount of money.
-* Etc.
+``` js
+var foo = function (bar) {
+  return bar++;
+};
 
-### Checklists
+console.log(foo(5));
+```
 
-Checklists can be used to write down important tasks that need to be done or notable events that need to be planned in the coming weeks.
+## Tables
 
-Users can set a list of items in their checklist and assign groups/people to that item. For example, the design group will be able to see all checklist items related to designing. They will be able to mark them as completed when they are done.
+| Option | Description                                                               |
+| ------ | ------------------------------------------------------------------------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default.    |
+| ext    | extension to be used for dest files.                                      |
 
-## Quality goals
+Right aligned columns
 
-To achieve a high-quality system, we must achieve the following:
+| Option |                                                               Description |
+| -----: | ------------------------------------------------------------------------: |
+|   data | path to data files to supply the data that will be passed into templates. |
+| engine |    engine to be used for processing templates. Handlebars is the default. |
+|    ext |                                      extension to be used for dest files. |
 
-### Client-Server Response Time
 
-The communication between the server, which houses the database (and the client) must be as fast as possible so ensure that the users are not waiting for the information they requested for too long. An acceptable range for response time is between 500ms and 2000ms to send the requested data over the Internet.
+## Links
 
-This can be achieved by optimising the interface between the client and the server and optimising the SQL instructions used to get the information.
+[link text](http://dev.nodeca.com)
 
-### Intuitive Design
+[link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
-It is important that the UI is intuitive and consistent. To ensure this, we will make sure to assess the UI with in-house, stakeholder and external testers to get a wide range of feedback for a UI design that is both intuitive and functional. We can measure the results by asking participants to rate the software in categories:
+Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
-- Aesthetics.
-- Functionality.
-- Intuitiveness.
 
-We can also take inspiration from other, similar applications, like Zoho Backstage.
+## Images
 
-### Database Quality
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
-The database part of the project will be its backbone. To ensure the database works correctly, we will employ a model such that it is in at least the 3rd Normal Form. This is so that the database is consistent with industry standards. Putting the database into the 3rd Normal Form will also allow us to adapt the database more easily for future updates and improvements and reduce the amount of storage required and the efficiency of the database.
+Like links, Images also have a footnote style syntax
 
-### Encryption
+![Alt text][id]
 
-An Event Management Product will hold lots of sensitive information about the companies that employ our system. To ensure security, we will use an encryption to help and keep our customers' information secure. To do this, we will use an implementation of Triple DES to keep the information secure.
+With a reference later in the document defining the URL location:
 
-### Defects
-Ensure that there are less errors in code, which may lead to faults and failures, thus reducing the reliability of the code. Make sure there are less than 5% of errors. This can be achieved by static and dynamic testing. Make sure that more than 95% of available errors are checked for.
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
-### Training
-Ensure that the employees are trained in using the system, so that they know how to use it and that they don’t run into problems while using it. Make sure at least 80% of users are trained to reduce time spent from users being unsure how to use the system and requiring assistance.
 
-## Risks and risk management
+## Plugins
 
-## References
+The killer feature of `markdown-it` is very effective support of
+[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
 
-Zoho. (2019). Online Event Management Software | Zoho Backstage. [online]
-Available at: https://www.zoho.com/backstage/ [Accessed 12 Feb. 2022].
 
-Sample Test Plan - OrangeHRM Live Project Training Test Plan (a Real Sample). (n.d.). [online] 
-Available at: https://www.softwaretestinghelp.com/wp-content/qa/uploads/2014/02/Live_Project_Test_Plan_SoftwareTestingHelp.pdf [Accessed 13 Feb. 2022].
+### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
 
+> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
+>
+> Shortcuts (emoticons): :-) :-( 8-) ;)
 
-CQI | IRCA. (2020). Setting and applying SMART objectives. [online] Available at: https://www.quality.org/knowledge/applying-smart-objectives#:~:text=All%20quality%20objectives%20should%20be [Accessed 17 Feb. 2022].
+see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
 
-Simplicable. (2018). 26 Examples of Quality Goals Simplicable [online]
-Available at: https://simplicable.com/new/quality-goals [Accessed 18th Feb. 2022].
+
+### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
+
+- 19^th^
+- H~2~O
+
+
+### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
+
+++Inserted text++
+
+
+### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
+
+==Marked text==
+
+
+### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+
+Footnote 1 link[^first].
+
+Footnote 2 link[^second].
+
+Inline footnote^[Text of inline footnote] definition.
+
+Duplicated footnote reference[^second].
+
+[^first]: Footnote **can have markup**
+
+    and multiple paragraphs.
+
+[^second]: Footnote text.
+
+
+### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
+
+Term 1
+
+:   Definition 1
+with lazy continuation.
+
+Term 2 with *inline markup*
+
+:   Definition 2
+
+        { some code, part of Definition 2 }
+
+    Third paragraph of definition 2.
+
+_Compact style:_
+
+Term 1
+  ~ Definition 1
+
+Term 2
+  ~ Definition 2a
+  ~ Definition 2b
+
+
+### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
+
+This is HTML abbreviation example.
+
+It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
+
+*[HTML]: Hyper Text Markup Language
+
+### [Custom containers](https://github.com/markdown-it/markdown-it-container)
+
+::: warning
+*here be dragons*
+:::
