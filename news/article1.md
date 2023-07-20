@@ -65,7 +65,7 @@ console.log(foo(5));
 
 ## Tables
 
-<div>
+<div class="table">
   <table>
   <tr>
     <th>Name</th>
