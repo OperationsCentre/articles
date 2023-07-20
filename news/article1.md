@@ -97,13 +97,9 @@ console.log(foo(5));
 ![Image](http://localhost:3000/img/rust-logo.jpg)
 ![Image With Title](https://www.rustyoperations.net/img/rust-banner.jpg "Banner")
 
-Like links, Images also have a footnote style syntax
-
 ![Alt text][id]
 
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+[id]: https://www.rustyoperations.net/img/rust-banner.jpg  "Rusty Operations Banner"
 
 
 ### Abbreviations
