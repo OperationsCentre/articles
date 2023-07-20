@@ -65,8 +65,8 @@ console.log(foo(5));
 
 ## Tables
 
-<div class="table">
-  <table>
+<div class="fix-width scroll-inner">
+  <table class="table table-striped">
   <tr>
     <th>Name</th>
     <th>IP</th>
