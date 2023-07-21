@@ -1,5 +1,5 @@
 # Latest News
 
-## Service Alarts
+## Service Alerts
 
 It's all good!
