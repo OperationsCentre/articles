@@ -99,11 +99,10 @@ For tables, it is important you wrap them in a div object with the classes, as f
 
 ### Images
 
-![Alt text][id]
-
-Below can be placed anywhere in the text, as long as what you put in the second pair of square brackets is the same! The text at the end of the below line in quotes is what users can see if they hover over the picture with their mouse. This is not required. Alt text is what a screenreader will use.
-
-[id]: https://www.rustyoperations.net/img/rust-banner.jpg  "Rusty Operations Banner"
+<div class="grid grid-cols-2">
+  <img src="https://www.rustyoperations.net/img/rust-banner.jpg" alt="alt text">
+  <img src="https://www.rustyoperations.net/img/rust-banner.jpg">
+</div>
 
 
 ### Abbreviations
