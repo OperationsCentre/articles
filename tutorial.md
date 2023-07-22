@@ -100,8 +100,14 @@ For tables, it is important you wrap them in a div object with the classes, as f
 ### Images
 
 <div class="grid grid-cols-2 gap-4">
-  <img src="https://www.rustyoperations.net/img/rust-banner.jpg" alt="alt text">
-  <img src="https://www.rustyoperations.net/img/rust-banner.jpg">
+  <div>
+    <img src="https://www.rustyoperations.net/img/rust-banner.jpg" alt="alt text">
+    <h2>This is a subheading<h2>
+    <p>Details</p>
+  </div>
+  <div>
+    <img src="https://www.rustyoperations.net/img/rust-banner.jpg">
+  </div>
 </div>
 
 
