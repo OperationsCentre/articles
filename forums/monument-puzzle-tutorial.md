@@ -2,14 +2,12 @@
 
 Struggling with how to do a monument? Here are some quick tutorials on what you need, where to go, and what to do for the monuments on the rust server.
 
-Green Card Monuments:
-https://www.rustafied.com/monument-puzzle-basic-green-solutions
+Here, you can find information on: 
+- [Green Card Monuments](https://www.rustafied.com/monument-puzzle-basic-green-solutions)
 
-Blue Card Monuments:
-https://www.rustafied.com/monument-puzzles-medium-blue-solutions
+- [Blue Card Monuments](https://www.rustafied.com/monument-puzzles-medium-blue-solutions)
 
-Red Card Monuments:
-https://www.rustafied.com/monument-puzzles-advanced-red-solutions
+- [Red Card Monuments](https://www.rustafied.com/monument-puzzles-advanced-red-solutions)
 
 ![Monument Puzzle Tutorials][id]
 
