@@ -106,7 +106,9 @@ For tables, it is important you wrap them in a div object with the classes, as f
     <p>Details</p>
   </div>
   <div>
-    <img src="https://www.rustyoperations.net/img/rust-banner.jpg">
+    <img src="https://www.rustyoperations.net/img/rust-banner.jpg" alt="alt text">
+    <h2>This is a subheading again<h2>
+    <p>Details 2</p>
   </div>
 </div>
 
