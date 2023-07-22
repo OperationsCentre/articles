@@ -4,12 +4,14 @@
 
 Headings 4, 5, and 6 are not styled so do not use!
 
-## Horizontal Rules
+## Formatting
+
+### Horizontal Rules
 These will create a line break. It is made of 3 underscores!
 ___
 
 
-## Emphasis
+### Emphasis
 You can use either of these methods to make bold or italic text. It does not matter!
 
 **This is bold text**
@@ -20,7 +22,7 @@ __This is bold text__
 
 _This is italic text_
 
-## Blockquotes
+### Blockquotes
 
 
 > Blockquotes can also be nested...
@@ -28,7 +30,7 @@ _This is italic text_
 > > > ...or with spaces between arrows.
 
 
-## Lists
+### Lists
 
 Unordered
 
@@ -52,7 +54,7 @@ Start numbering with offset:
 1. bar
 
 
-## Code
+### Code
 
 Inline `code`
 
@@ -65,7 +67,7 @@ var foo = function (bar) {
 console.log(foo(5));
 ```
 
-## Tables
+### Tables
 For tables, it is important you wrap them in a div object with the classes, as follows. If you do not to this, the table will not be scrollable on smaller devices and break the webpage!
 <div class="table-width scroll-bar">
   <table class="table">
@@ -88,14 +90,14 @@ For tables, it is important you wrap them in a div object with the classes, as f
 </div>
 
 
-## Links
+### Links
 
 [Regular Link](https://www.rustyoperations.net/img/rust-logo.jpg)
 
 [Titled Link (Hover Over Me)](http://www.rustyoperations.net "Rusty Operations Community Website")
 
 
-## Images
+### Images
 
 ![Alt text][id]
 
@@ -104,10 +106,47 @@ Below can be placed anywhere in the text, as long as what you put in the second 
 [id]: https://www.rustyoperations.net/img/rust-banner.jpg  "Rusty Operations Banner"
 
 
-## Abbreviations
+### Abbreviations
 
 This is <abbr title="Hyper Text Markup Language">HTML</abbr> abbreviation example.
 
-## Timestamps
 
+## Writing Your Own Article
+
+This section will teach you how to write your own article and publish it to the website!
+
+### Getting Started
+
+You can write your own markdown files! It's super easy! I would recommend using [VSCode](https://vscode.dev/) which you can access in your browser. This is because it lets you preview the Markdown file!
+
+Once you are on https://vscode.dev/github, click Open Remote Repository and select `OperationsCentre/articles`
+
+Congradulations! You have now successfully logged into VSCode and you can start making your articles!
+
+You can also download the desktop application, but it's not required!
+
+### Writing your first article
+Depending on what you're writing, you will create a new .md file in the news or forums folder. Feel free to create subfolders too, to keep things organised. It does not matter what you call them, so name it something memorable and descriptive!
+
+You can already see a lot of articles have been made!
+
+Follow the above guide on how to style an article!
+
+REMEMBER: Any images you upload, will not be accessible until you commit the changes, but you can still add the images in the .md file like above! The images folder is https://articles.rustyoperations.net/images/`imagefile`.
+
+### Uploading your article to GitHub
+Once you have finished editing your article, it's time to upload it publicly!
+
+To do so, make sure all your files are saved, then go to the Soruce Control tab on the side. Add a commit message and press the `Commit & Push` button. Well done! Your article is ready to be put on the website! 
+
+### Publishing your article
+Follow the instruction on the [Admin Panel](https://admins.rustyoperations.net/)
+
+### How to get the URL of my article
+Once your article is pushed to GitHub, you can get the file by doing to it's directory. The director follows the stucture of https://articles.rustyoperations.net/`article-name.md` where `articleName` is the director it's stored. For example, this tutorial is stored here: https://articles.rustyoperations.net/tutorial.md. There are other articles too. For example, the forums are https://articles.rustyoperations.net/forums/`forum-name`.
+
+### How to link articles together
+The website has an override parameter in the forums and news view page. To link to an article, you simply create a hyperlink like so: [Linked Article](https://rusty-operations-community-website-test.web.app/forums/view?override=https://articles.rustyoperations.net/tutorial.md). Even though users cannot access this from the forums page, the override will render any Markdown file you pass in. The Markdown file doesn't even have to me one of ours. As long as it's a Markdown file, it will render!
+
+### Timestamps
 Each article needs a timestamp in its metadata to show when it was last updated. These timestamps can be generated [here](https://timestampgenerator.com/). You will need to get the `ICO 8610` format, otherwise it will not work. For example, UK Time 22/07/2023 16:00:00 BST will be 2023-07-22T15:00:00+0000 in universal time. The website wil generate the timestamp for the current time for you.
