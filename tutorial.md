@@ -1,16 +1,16 @@
-# This page shows how style your article
-
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
 
+Headings 4, 5, and 6 are not styled so do not use!
 
 ## Horizontal Rules
-
+These will create a line break. It is made of 3 underscores!
 ___
 
 
 ## Emphasis
+You can use either of these methods to make bold or italic text. It does not matter!
 
 **This is bold text**
 
@@ -66,7 +66,7 @@ console.log(foo(5));
 ```
 
 ## Tables
-
+For tables, it is important you wrap them in a div object with the classes, as follows. If you do not to this, the table will not be scrollable on smaller devices and break the webpage!
 <div class="table-width scroll-bar">
   <table class="table">
   <tr>
@@ -87,23 +87,27 @@ console.log(foo(5));
   </table>
 </div>
 
+
 ## Links
 
 [Regular Link](https://www.rustyoperations.net/img/rust-logo.jpg)
 
-[Titled Link](http://www.rustyoperations.net "Rusty Operations Community Website")
+[Titled Link (Hover Over Me)](http://www.rustyoperations.net "Rusty Operations Community Website")
 
 
 ## Images
 
-![Image](https://www.rustyoperations.net/img/rust-logo.jpg)
-![Image With Title](https://www.rustyoperations.net/img/rust-banner.jpg "Banner")
-
 ![Alt text][id]
+
+Below can be placed anywhere in the text, as long as what you put in the second pair of square brackets is the same! The text at the end of the below line in quotes is what users can see if they hover over the picture with their mouse. This is not required. Alt text is what a screenreader will use.
 
 [id]: https://www.rustyoperations.net/img/rust-banner.jpg  "Rusty Operations Banner"
 
 
-### Abbreviations
+## Abbreviations
 
 This is <abbr title="Hyper Text Markup Language">HTML</abbr> abbreviation example.
+
+## Timestamps
+
+Each article needs a timestamp in its metadata to show when it was last updated. These timestamps can be generated [here](https://timestampgenerator.com/). You will need to get the `ICO 8610` format, otherwise it will not work. For example, UK Time 22/07/2023 16:00:00 BST will be 2023-07-22T15:00:00+0000 in universal time. The website wil generate the timestamp for the current time for you.
