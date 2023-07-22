@@ -99,19 +99,32 @@ For tables, it is important you wrap them in a div object with the classes, as f
 
 ### Images
 
-<div class="grid grid-cols-2 gap-4">
+Normal images
+![Alt text](https://www.rustyoperations.net/img/rust-banner.jpg)
+
+HTML Coloums with image as example
+
+`grid` specifys that you want to arrange the content in a grid.
+
+`sm:grid-cols-2` means that when the device is larger than a small device (phone) use 2 columns, otherwise it will default to 1. You can specify up to 10 columns! [Tailwind CSS Grid Template Coloums Documentation](https://tailwindcss.com/docs/grid-template-columns) 
+
+`gap-4` is an arbitraty gap. Here is the [Tailwind CSS Grid Documentation](https://tailwindcss.com/docs/gap) 
+
+<div class="grid sm:grid-cols-2 gap-4">
   <div>
     <img src="https://www.rustyoperations.net/img/rust-banner.jpg" alt="alt text">
-    <h2>This is a subheading<h2>
+    <h2>This is a subheading</h2>
     <p>Details</p>
   </div>
   <div>
     <img src="https://www.rustyoperations.net/img/rust-banner.jpg" alt="alt text">
-    <h2>This is a subheading again<h2>
+    <h2>This is a subheading again</h2>
     <p>Details 2</p>
   </div>
 </div>
 
+### Line breaks
+Use `<br>` to line break as `\n` is not supported
 
 ### Abbreviations
 
