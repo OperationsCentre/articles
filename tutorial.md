@@ -100,6 +100,7 @@ For tables, it is important you wrap them in a div object with the classes, as f
 ### Images
 
 Normal images
+
 ![Alt text](https://www.rustyoperations.net/img/rust-banner.jpg)
 
 HTML Coloums with image as example
