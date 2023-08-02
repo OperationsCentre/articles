@@ -1,3 +1,0 @@
-# Second Article
-
-## Subheading
