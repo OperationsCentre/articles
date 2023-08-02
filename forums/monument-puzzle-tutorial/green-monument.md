@@ -34,7 +34,7 @@ They can be found at the top of the lighthouse, through the right door.
 
 They can be found in the office at the back of the store. This can be accessed through the store or from behind the shop.
 
-## Where to use
+## Where to use Green Keycards
 
 ### Harbor
 ![Harbor](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/green-monument-harbor.jpg)
