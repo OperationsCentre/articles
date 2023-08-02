@@ -1,5 +1,5 @@
 # Service Changes
-![ServerChangesBanner](https://articles.rustyoperations.net/articles/news/ServerChangesBanner.png)
+![ServerChangesBanner](https://articles.rustyoperations.net/news/ServerChangesBanner.png)
 
 Here are a list of adjustments/improvements to the Rusty Operations server.
 
@@ -46,7 +46,7 @@ Here are a list of adjustments/improvements to the Rusty Operations server.
 
  # Shop Has Been Launched!
 
- ![Shop](https://articles.rustyoperations.net/articles/news/Shop.jpg)
+ ![Shop](https://articles.rustyoperations.net/news/Shop.jpg)
 
  We are moving from patreon to our new shop that can be accessed by clicking on the shop tab above. Benefits have been improved and rank names have been changed. The new shop now gives the ranks automatically to players that purchase ranks! 
  Ranks include,
