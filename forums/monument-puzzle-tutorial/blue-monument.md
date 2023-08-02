@@ -9,7 +9,7 @@ There are 4 monuments with blue keycards: Airfield, Power Plant, Trainyard and t
 ![Airfield](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/blue-monument-airfield.jpg)
 
 To gain access to the Airfield, you will need:
-- [Green Keycard](https://www.rustyoperations.net/forums/view?override=forums/monument-puzzle-tutorial/green-monument)
+- [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/green-monument)
 - Blue Keycard
 - 2 Electric Fuses
 
@@ -28,7 +28,7 @@ Go back to the blue door and enjoy your loot!
 ![Power Plant](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/blue-monument-power-plant.jpg)
 
 To gain access to the Power Plant, you will need:
-- [Green Keycard](https://www.rustyoperations.net/forums/view?override=forums/monument-puzzle-tutorial/blue-monument)
+- [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/blue-monument)
 - Blue Keycard
 - Electric Fuse
 
@@ -49,7 +49,7 @@ Now go up the stairs and you will find the door that requires a blue keycard. Th
 ![Trainyard](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/blue-monument-trainyard.jpg)
 
 To gain access to the Trainyard, you will need:
-- [Green Keycard](https://www.rustyoperations.net/forums/view?override=forums/monument-puzzle-tutorial/green-monument) (Optional)
+- [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/green-monument) (Optional)
 - Blue Keycard
 - Electric Fuse
 
