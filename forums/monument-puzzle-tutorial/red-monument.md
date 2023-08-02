@@ -22,7 +22,7 @@ Head to the right and flip the switch marked "Laboratory". Then head out and hea
 There are grates in the rail car! Exit the rail car and go right. Then head straight until you find the Laboratory door. Open the door with your blue keycard and activate the timer. Then go through the red door. Well done! The exit is on your left!
 
 ## Launch Site
-![Launch Site](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/red-monument-launch-site.png)
+![Launch Site](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/red-monument-launch-site.jpg)
 
 The launch site will leave you wanting for nothing! It contains 2 elite crates, 2 military crates and 2 normal crates! To complete this monument, you will need:
 - Green Keycard
