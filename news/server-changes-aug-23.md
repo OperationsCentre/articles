@@ -1,9 +1,11 @@
-# Service Changes
+# What's New?
 ![ServerChangesBanner](https://articles.rustyoperations.net/news/ServerChangesBanner.png)
+
+## Server Changes
 
 Here are a list of adjustments/improvements to the Rusty Operations server.
 
-## Balancing:
+### Balancing:
 
  - Changed quarries and excavator rates to 3x, diesel barrels have been set to 1x.
 
@@ -26,7 +28,7 @@ Here are a list of adjustments/improvements to the Rusty Operations server.
  - DONATION RANKS: Team automatic authorization no longer allows for key locks to be authorized on by teammates.
 
 
- ## Backend bug fixes and adjustments:
+ ### Backend bug fixes and adjustments:
 
  - Error in text has been fixed.
 
@@ -44,7 +46,7 @@ Here are a list of adjustments/improvements to the Rusty Operations server.
 
  - Information panel has been improved and looks cleaner to reduce clutter and also has more functionality.
 
- # Shop Has Been Launched!
+ ## Shop Has Been Launched!
 
  ![Shop](https://articles.rustyoperations.net/news/Shop.jpg)
 
@@ -57,6 +59,6 @@ Here are a list of adjustments/improvements to the Rusty Operations server.
  
   Visit the Shop HQ to see all benefits included!
 
-# New and Improved Website is Now Fully Live!
+## New and Improved Website is Now Fully Live!
 
 Our new and improved website is finally here! Here you will be able to find how to get keycard or do puzzles, and also CCTV codes. More is to come in the forums section as far as guides and tutorials. We also have this news section which you will be able to keep track of new updates and adjustments to the server, website, discord, shop and more! Enjoy our new sleek design with reduced clutter and dark theme!
