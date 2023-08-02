@@ -49,6 +49,6 @@ At the satellite dish, you will find a small metal building, which contains a fu
 Lastly, the sewer. At the sewer, there is shack. You will need to break down the door to get in. Place your fuse in the fusebox and switch it on. There will be a tunnel to your left, go down it. At the end of the tunnel, you will find a door that you can open with your green keycard. Inside, you will find a blue keycard and at least 3 crates.
 
 ### Supermarkets
-![Supermarket](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/green-monument-gas-station.jpg)
+![Supermarket](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/green-monument-supermarket.jpg)
 
 They can be found in the office at the back of the store. This can be accessed through the store or from behind the shop.
