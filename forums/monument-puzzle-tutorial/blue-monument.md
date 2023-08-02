@@ -1,6 +1,6 @@
 # Blue Keycard Monuments
 
-Blue keycards are the second tier of keycard. These can be located at [Green Keycard Monuments](https://www.rustyoperations.net/forums/view?override=forums/monument-puzzle-tutorial/green-monument) or by purchasing them at the tools vending machine in the Outpost with 100 scrap.
+Blue keycards are the second tier of keycard. These can be located at Green Keycard Monuments or by purchasing them at the tools vending machine in the Outpost with 100 scrap.
 
 There are 4 monuments with blue keycards: Airfield, Power Plant, Trainyard and the Water Treatment Plant.
 
