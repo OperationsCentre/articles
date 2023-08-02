@@ -6,8 +6,8 @@ Red keycard monuments are the last tier of monument. These monuments include Mil
 ![Military Tunnels](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/red-monument-military-tunnels.jpg)
 
 The military tunnels are filled with wonders and mysteries and an equal amount of enemies, so make sure you're well prepared! To complete this monument, you will need:
-- [Green Keycard](https://www.rustyoperations.net/forums/view?override=forums/monument-puzzle-tutorial/green-monument)
-- [Blue Keycard](https://www.rustyoperations.net/forums/view?override=forums/monument-puzzle-tutorial/blue-monument)
+- [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/green-monument)
+- [Blue Keycard](/forums/view?override=forums/monument-puzzle-tutorial/blue-monument)
 - Red Keycard
 - Electric Fuse
 
@@ -15,17 +15,17 @@ For your efforts, you will be greatly rewarded with 3 elite crates, 2 military c
 
 Enter in the right door and keep heading right until you find the door marked "Armory". Inside, you will find a fusebox and a timer. Place your fuse in the box and activate it and the timer. 
 
-Now, head back out the way you came and down the tunnel that curves right. You will find a hole in the fence; go through it and look for a door marked "Storage". This requires your [Green Keycard](https://www.rustyoperations.net/forums/view?override=forums/monument-puzzle-tutorial/green-monument).
+Now, head back out the way you came and down the tunnel that curves right. You will find a hole in the fence; go through it and look for a door marked "Storage". This requires your [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/green-monument).
 
 Head to the right and flip the switch marked "Laboratory". Then head out and head left towards the core.
 
-There are grates in the rail car! Exit the rail car and go right. Then head straight until you find the Laboratory door. Open the door with your [Blue Keycard](https://www.rustyoperations.net/forums/view?override=forums/monument-puzzle-tutorial/blue-monument) and activate the timer. Then go through the red door. Well done! The exit is on your left!
+There are grates in the rail car! Exit the rail car and go right. Then head straight until you find the Laboratory door. Open the door with your [Blue Keycard](/forums/view?override=forums/monument-puzzle-tutorial/blue-monument) and activate the timer. Then go through the red door. Well done! The exit is on your left!
 
 ## Launch Site
 ![Launch Site](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/red-monument-launch-site.jpg)
 
 The launch site will leave you wanting for nothing! It contains 2 elite crates, 2 military crates and 2 normal crates! To complete this monument, you will need:
-- [Green Keycard](https://www.rustyoperations.net/forums/view?override=forums/monument-puzzle-tutorial/green-monument)
+- [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/green-monument)
 - Red Keycard
 - 2 Electric Fuses
 
