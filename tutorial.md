@@ -167,7 +167,7 @@ Follow the instruction on the [Admin Panel](https://admins.rustyoperations.net/)
 Once your article is pushed to GitHub, you can get the file by doing to it's directory. The director follows the stucture of https://articles.rustyoperations.net/`article-name.md` where `articleName` is the director it's stored. For example, this tutorial is stored here: https://articles.rustyoperations.net/tutorial.md. There are other articles too. For example, the forums are https://articles.rustyoperations.net/forums/`forum-name`.
 
 ### How to link articles together
-The website has an override parameter in the forums and news view page. To link to an article, you simply create a hyperlink like so: [Linked Article](https://rusty-operations-community-website-test.web.app/forums/view?override=https://articles.rustyoperations.net/tutorial.md). Even though users cannot access this from the forums page, the override will render any Markdown file you pass in. The Markdown file doesn't even have to me one of ours. As long as it's a Markdown file, it will render!
+The website has an override parameter in the forums and news view page. To link to an article, you simply create a hyperlink like so: https://www.rustyopertations.net`DIRECTORY`. Be aware, the website only goes to files found in the `news` or `forums` directories
 
 ### Timestamps
 Each article needs a timestamp in its metadata to show when it was last updated. These timestamps can be generated [here](https://timestampgenerator.com/). You will need to get the `ICO 8610` format, otherwise it will not work. For example, UK Time 22/07/2023 16:00:00 BST will be 2023-07-22T15:00:00+0000 in universal time. The website wil generate the timestamp for the current time for you.
