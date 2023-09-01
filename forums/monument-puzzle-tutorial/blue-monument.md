@@ -1,6 +1,6 @@
 # Blue Keycard Monuments
 
-Blue keycards are the second tier of keycard. These can be located at [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/green-monument) Monuments or by purchasing them at the tools vending machine in the Outpost with 100 scrap.
+Blue keycards are the second tier of keycard. These can be located at [Green Card Monuments](/forums/monument-puzzle-tutorial/green-monument) Monuments or by purchasing them at the tools vending machine in the Outpost with 100 scrap.
 
 There are 4 monuments with blue keycards: Airfield, Power Plant, Trainyard and the Water Treatment Plant.
 
@@ -9,17 +9,17 @@ There are 4 monuments with blue keycards: Airfield, Power Plant, Trainyard and t
 ![Airfield](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/blue-monument-airfield.jpg)
 
 To gain access to the Airfield, you will need:
-- [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/green-monument)
+- [Green Card Monuments](/forums/monument-puzzle-tutorial/green-monument)
 - Blue Keycard
 - 2 Electric Fuses
 
-Welcome to the Airfield. Here, you will find 8 crates (1 behind the green door) and 1 [Red Keycard](/forums/view?override=forums/monument-puzzle-tutorial/blue-monument).
+Welcome to the Airfield. Here, you will find 8 crates (1 behind the green door) and 1 [Red Card Monuments](/forums/monument-puzzle-tutorial/red-monument).
 
 The airfield is also irradiated, but slightly less so. Make sure to bring some meds with you!
 
 First, go to the main building. There is a door that leads to the garage. Once through the door, place the fuse on the room to your right. You will also notice a door which requires the blue keycard. Don't worry, we'll come back!
 
-Go down the tunnel entrance which is located outside the hanger. Inside, you will find a door which requires your [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/green-monument). Place your last fuse in the room to your right.
+Go down the tunnel entrance which is located outside the hanger. Inside, you will find a door which requires your [Green Card Monuments](/forums/monument-puzzle-tutorial/green-monument). Place your last fuse in the room to your right.
 
 Go back to the blue door and enjoy your loot!
 
@@ -34,13 +34,13 @@ To gain access to the Power Plant, you will need:
 
 Be careful though! The Power Plant is irradiated, so you will want some protective gear. Our recommendation would be a hazmat suit.
 
-You can find an assortment of loot in the Power Plant. This includes 5 barrels, 7 crates (3 behind the green door and the rest behind the blue door) and a [Red Keycard](/forums/view?override=forums/monument-puzzle-tutorial/blue-monument).
+You can find an assortment of loot in the Power Plant. This includes 5 barrels, 7 crates (3 behind the green door and the rest behind the blue door) and a [Red Card Monuments](/forums/monument-puzzle-tutorial/red-monument).
 
 In the Power Plant, you will find a 3-story building in one of the corners of the airfield, with a switch located under the stairs on the outside of the building. Make sure to turn on this switch.
 
 Go to the building with the slanted roof. Inside will be another switch. Make sure to activate this one, too. Make sure to also activate the accompanying timer.
 
-You may now access the main building with your [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/green-monument). There will be a switch in this building on the ground level. Make sure to activate it. 
+You may now access the main building with your [Green Card Monuments](/forums/monument-puzzle-tutorial/green-monument). There will be a switch in this building on the ground level. Make sure to activate it. 
 
 Now go up the stairs and you will find the door that requires a blue keycard. The loot is now yours!
 
@@ -49,11 +49,11 @@ Now go up the stairs and you will find the door that requires a blue keycard. Th
 ![Trainyard](https://articles.rustyoperations.net/forums/monument-puzzle-tutorial/blue-monument-trainyard.jpg)
 
 To gain access to the Trainyard, you will need:
-- [Green Keycard](/forums/view?override=forums/monument-puzzle-tutorial/green-monument) (Optional)
+- [Green Card Monuments](/forums/monument-puzzle-tutorial/green-monument) (Optional)
 - Blue Keycard
 - Electric Fuse
 
-The Trainyard is just as irradiated as the Power Plant so a hazmat suit is recommended! You will also have a nice helping of 3 barrels, 10 crates and 1 [Red Keycard](/forums/view?override=forums/monument-puzzle-tutorial/blue-monument).
+The Trainyard is just as irradiated as the Power Plant so a hazmat suit is recommended! You will also have a nice helping of 3 barrels, 10 crates and 1 [Red Card Monuments](/forums/monument-puzzle-tutorial/red-monument).
 
 Go to the 3-story building. Activate the switch on the ground level.
 
@@ -71,7 +71,7 @@ To gain access to the Water Treatment Plant, you will need:
 - Blue Keycard
 - Electric Fuse
 
-Just like the Power Plant and Trainyard, the Water Treatment Plan is heavily irradiated. Make sure to bring a hazmat suit with you. For your troubles, you will find 10 crates and 1 [Red Keycard](/forums/view?override=forums/monument-puzzle-tutorial/blue-monument). 
+Just like the Power Plant and Trainyard, the Water Treatment Plan is heavily irradiated. Make sure to bring a hazmat suit with you. For your troubles, you will find 10 crates and 1 [Red Card Monuments](/forums/monument-puzzle-tutorial/red-monument). 
 
 This monument should be nice and easy. There is a 2-story building with blast doors that you can open with the wheel. Upstairs, there is a fusebox and a timer; turn on both.
 
