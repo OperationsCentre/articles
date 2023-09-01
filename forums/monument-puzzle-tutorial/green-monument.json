@@ -1,5 +1,7 @@
 {
   "title": "Green Keycard Monuments",
   "description": "Green keycards are used to gain access to low-tier monuments. These monuments may contain valuable loot and keycards to higher-tier monuments.",
-  "image": "https://articles.rustyoperations.net/forums/monument-puzzle-tutorial.jpg"
+  "image": "https://articles.rustyoperations.net/forums/monument-puzzle-tutorial.jpg",
+  "imageW": 800,
+  "imageH": 600
 }

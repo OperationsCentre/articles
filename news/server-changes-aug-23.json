@@ -2,5 +2,7 @@
   "title": "Service Changes",
   "description": "We have been hard at work making your experience better. Check out all the changes here!",
   "image": "https://articles.rustyoperations.net/images/ServerChangesBanner.png",
-  "timestamp": "2023-08-03T18:00:00.000Z"
+  "timestamp": "2023-08-03T18:00:00.000Z",
+  "imageW": 800,
+  "imageH": 600
 }

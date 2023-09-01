@@ -2,5 +2,7 @@
   "title": "CCTV Codes",
   "description": "Here you can find a list of CCTV codes for procedural maps, note that custom maps have some of their own unique CCTV identifier codes.",
   "image": "https://articles.rustyoperations.net/forums/CCTV-Codes.jpg",
-  "timestamp": "2023-08-03T00:00:00.000Z"
+  "timestamp": "2023-08-03T00:00:00.000Z",
+  "imageW": 800,
+  "imageH": 600
 }

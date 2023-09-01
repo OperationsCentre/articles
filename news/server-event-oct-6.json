@@ -2,5 +2,7 @@
   "title": "Escape the Haunted House Event",
   "description": "That's right. We're hosting an event on our server! Click to find out more.",
   "image": "https://articles.rustyoperations.net/news/server-event-oct-6-banner.jpg",
-  "timestamp": "2023-08-03T00:00:00.000Z"
+  "timestamp": "2023-08-03T00:00:00.000Z",
+  "imageW": 800,
+  "imageH": 800
 }
