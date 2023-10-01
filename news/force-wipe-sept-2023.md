@@ -1,4 +1,4 @@
-# Exciting September Update in RUST Introduces Game-Changing Features
+# September Update
 
 In a much-anticipated September update, the world of RUST has been rocked by the introduction of the Attack Helicopter, stealing the spotlight. This brand-new addition, distinct from the familiar Patrol Helicopter, empowers players with the ability to commandeer an air vehicle capable of accommodating two players. These formidable flying machines are available for purchase at the Airwolf shop nestled within the Bandit Camp, although they come at a hefty scrap cost. Pilots can also customize these helicopters with an array of rockets and weapons, turning them into formidable aerial assault platforms.
 
