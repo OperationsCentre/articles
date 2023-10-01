@@ -3,6 +3,6 @@
   "description": "Facepunch Studios has released its September update for Rust with new features and changes. The update introduces the Attack Helicopter, a two-player air vehicle that can be customized with rockets and weapons. The update also improves the Hot Air Balloon with armor and adds parachutes for players.",
   "image": "https://articles.rustyoperations.net/images/monthly-update.jpg",
   "timestamp": "2023-09-07T00:00:00.000Z",
-  "imageW": 1920,
-  "imageH": 1080
+  "imageW": 800,
+  "imageH": 450
 }
