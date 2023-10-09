@@ -1,11 +1,9 @@
 # Rusty Operations Halloween Event
 <br>
-**October 29th**
+**October 29th at 4PM GMT - 12PM EST - 6PM CET**
 <br>
 <br>
 On Sunday 29th October we will be hosting our very own Halloween event on our Discord server. For those of you who came last year, it will be just as much fun! An evening full of games, social activities, and laughs. We have a few things planned, so feel free to come along to some of the activities that interest you and stay as long as you like.
-<br>
-**Our event will start at 4PM GMT - 12PM EST - 6PM CET**
 <br>
 <br>
 Here is the schedule for the evening:
