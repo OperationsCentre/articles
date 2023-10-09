@@ -8,10 +8,10 @@ On Sunday 29th October we will be hosting our very own Halloween event on our Di
 <br>
 Here is the schedule for the evening:
 <br>
-*Scary Movie Time - 2 hours
-*Spooky Gaming Session - 2 hours
-*Social Games - 2 hours
-<br>
+* Scary Movie Time - 2 hours
+* Spooky Gaming Session - 2 hours
+* Social Games - 2 hours
+
 Some events may run later than usual, but we will try to stick to the schedule as much as possible.
 <br>
 <br>
