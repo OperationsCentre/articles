@@ -8,9 +8,9 @@ On Sunday 29th October we will be hosting our very own Halloween event on our Di
 <br>
 Here is the schedule for the evening:
 <br>
-* Scary Movie Time - 2 hours
-* Spooky Gaming Session - 2 hours
-* Social Games - 2 hours
+
+* Scary Movie Time - The Women in Black - 1hr 35mins
+* Social Games - 3hrs
 
 Some events may run later than usual, but we will try to stick to the schedule as much as possible.
 <br>
@@ -23,5 +23,5 @@ We look forward to you joining us!
 <br>
 <br>
 <br>
-![Rusty Operations Halloween Event](https://cdn.discordapp.com/attachments/1051627996726972506/1133109128005419018/Rusty_OperationsHalloweenBanner.jpg?ex=6536c09c&is=65244b9c&hm=ff7cfc84ebce20687283539a7a75936bcc9888b5d9133ea65f7a395fe31ce868&)
+![Rusty Operations Halloween Event](https://articles.rustyoperations.net/news/events/halloween-event-23.png)
 <br>
